@@ -1,3 +1,3 @@
 var os =require('os');
 
-console.log('Platfrom :'+os.platfrom()
+console.log('Platfrom :'+os.platfrom());
